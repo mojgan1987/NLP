@@ -1,4 +1,4 @@
 # NLP
 Natural Language Processing
 
-# training and inline courses
+%training and online courses
